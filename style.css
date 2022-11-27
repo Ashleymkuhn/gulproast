@@ -198,6 +198,13 @@ span {
 }
 
 
+.backimg {
+    background-image: url(images/gulp-bottom-beans.jpg);
+    width: 100%;
+    height: 200px;
+    background-repeat: repeat-x;
+}
+
 
 footer {
     background-color: #082B59;
